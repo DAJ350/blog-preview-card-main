@@ -6,15 +6,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ### The challenge
 
@@ -31,8 +29,6 @@ Users should be able to:
 - Solution URL: [Solution URL](https://github.com/DAJ350/blog-preview-card-main)
 - Live Site URL: [Live Site URL](https://daj350.github.io/blog-preview-card-main/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -45,7 +41,7 @@ I started this project thinking it would be a walk in the park. BOY was I wrong.
 
 My main struggle was figuring out how to closely match the sizing of the elements to the dimensions provided in the design files without relying fixed measurements and media queries. 
 
-For a while I thought the issue was sporuting from the size I set the entire card to but in the end I realised that it was a font-sizing problem. Once I realised this, I began looking in the direction of fluid typography and stumbled across the clamp() function.
+For a while I thought the issue was sprouting from the size I set the entire card to but in the end I realised that it was a font-sizing problem. Once I realised this, I began looking in the direction of fluid typography and stumbled across the clamp() function.
 
 ### Continued development
 
